@@ -1,4 +1,5 @@
 // Качмар Владислав
+// 12.0 варіант
 #include <iostream>
 #include <iomanip>
 #include <cmath>
