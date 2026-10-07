@@ -1,3 +1,4 @@
+// Качмар Владислав
 #include <iostream>
 #include <iomanip>
 #include <cmath>
